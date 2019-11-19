@@ -476,11 +476,6 @@ li {
     font-size: 10px;
   }
 
-  #works .card:nth-child(2n+1):nth-last-child(-n+2),
-  #works .card:nth-child(2n+1):nth-last-child(-n+2)~div {
-    margin-bottom: 0;
-  }
-
   #works .card {
     flex-basis: 48%;
     margin-bottom: 30px;
