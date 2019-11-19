@@ -1,1 +1,0 @@
-# masahys.github.io
